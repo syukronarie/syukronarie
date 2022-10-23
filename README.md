@@ -12,12 +12,21 @@
 		</a>
 </div>
 
-<p align="center"> 
-  <br/>Visitor count<br>
+<!-- <div align="center">
+		<br/>
+	<a href="">
+		<img src="https://activity-graph.herokuapp.com/graph?username=syukronarie&custom_title=Arie's%20activity%20graph&bg_color=151515&color=ffffff&line=fa8c00&point=ffa91e&area=true&hide_border=true"/>
+	</a>
+	<br/>
+</div> -->
+
+<div align="center"> 
+	<br/>
+	<h3>Visitor count</h3>
 	<a href="https://github.com/syukronarie">
   	<img src="https://profile-counter.glitch.me/syukronarie/count.svg" />
 	</a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
