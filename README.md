@@ -22,7 +22,7 @@
 
 <div align="center"> 
 	<br/>
-	<h3>Visitor count</h3>
+	<p>Visitor count</p>
 	<a href="https://github.com/syukronarie">
   	<img src="https://profile-counter.glitch.me/syukronarie/count.svg" />
 	</a>
