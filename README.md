@@ -12,6 +12,8 @@
 		</a>
 </div>
 
+<br/>
+
 <div align="center"> 
 	<p>Visitor count</p>
 	<a href="https://github.com/syukronarie">
