@@ -5,13 +5,13 @@
 	<br/><cite>—Mark Twain</cite></blockquote>
 	<br/>
 </div>
-<!-- 
+
 <div align="center">
 		<a href="https://github.com/syukronarie">
     	<img src="https://github-readme-streak-stats.herokuapp.com?user=syukronarie&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"/>
 		</a>
 </div>
- -->
+
 <div align="center"> 
 	<p>Visitor count</p>
 	<a href="https://github.com/syukronarie">
