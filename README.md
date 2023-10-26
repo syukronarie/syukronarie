@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<div align="center">
-  <blockquote cite="—Mark Twain">“The secret of getting ahead is getting started.” 📈🎯
-	<br/><cite>—Mark Twain</cite></blockquote>
-	<br/>
-</div>
+# <div align="center">
+#  <blockquote cite="—Mark Twain">“The secret of getting ahead is getting started.” 📈🎯
+#	<br/><cite>—Mark Twain</cite></blockquote>
+#	<br/>
+# </div>
 
 <div align="center">
 		<a href="https://github.com/syukronarie">
